@@ -1,4 +1,4 @@
-Instructions on how to run the program:
+# Instructions on how to run the program:
 Open Assessment.Rproj.
 Install the packages which are required to run the code (lines 2 to 5) by clicking command+return on mac or shift+enter on windows.
 Load the packages by running code lines 8 to 11.
